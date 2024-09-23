@@ -1,5 +1,5 @@
-create database test1;
-use test1;
+create database test2;
+use test2;
 CREATE TABLE ho_khau (
     id_ho_gia_dinh INT PRIMARY KEY AUTO_INCREMENT,
     ten_chu_ho VARCHAR(100),
